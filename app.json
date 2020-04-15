@@ -25,10 +25,10 @@
     ],
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.iviewlabs.rnchatapp"
+      "bundleIdentifier": "com.jigaradesara.rnchatapp"
     },
     "android": {
-      "package": "com.iviewlabs.rnchatapp"
+      "package": "com.jigaradesara.rnchatapp"
     },
     "description": ""
   }

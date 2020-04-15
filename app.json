@@ -1,0 +1,35 @@
+{
+  "expo": {
+    "name": "RN Chat App",
+    "slug": "my-new-project",
+    "privacy": "public",
+    "sdkVersion": "36.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "default",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.iviewlabs.rnchatapp"
+    },
+    "android": {
+      "package": "com.iviewlabs.rnchatapp"
+    },
+    "description": ""
+  }
+}
